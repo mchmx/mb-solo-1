@@ -1,6 +1,6 @@
 PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
 
 BUNDLE_DISPLAY_NAME = mindbody-solo
-BUNDLE_IDENTIFIER = com.mbsolo.mobile
+BUNDLE_IDENTIFIER = com.mindbodysolo.mobile
 
 RUNTIME_URL = http:\/\/localhost:8080
