@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1005746779116",
+    "project_id": "mb-solo",
+    "storage_bucket": "mb-solo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005746779116:android:e56f8cf2bd3aa7836b06c9",
+        "android_client_info": {
+          "package_name": "com.mbsolo.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005746779116-376rf2q8te3rhq3hsipqvck02bnu2eqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAar1cxkO9xYRtLssTo1avY_EqX6OMJkb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005746779116-376rf2q8te3rhq3hsipqvck02bnu2eqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005746779116:android:f92cb5705faa167e6b06c9",
+        "android_client_info": {
+          "package_name": "com.mbsolo.mobile.developerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005746779116-376rf2q8te3rhq3hsipqvck02bnu2eqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAar1cxkO9xYRtLssTo1avY_EqX6OMJkb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005746779116-376rf2q8te3rhq3hsipqvck02bnu2eqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
