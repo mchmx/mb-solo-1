@@ -44,6 +44,8 @@
 		EB59215B23BFA1F5001D6155 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EB59215A23BFA1F5001D6155 /* main.m */; };
 		EB59215C23BFA1F5001D6155 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EB59215A23BFA1F5001D6155 /* main.m */; };
 		ED297163215061F000B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED297162215061F000B7C4FE /* JavaScriptCore.framework */; };
+		D6D26AFC34A94C749AC6F565 /* AvertaDemoPE-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = F9B3DEBE8C8B4080B9CEA2C1 /* AvertaDemoPE-Regular.otf */; };
+		1B5C6A2BDAE74ED1BAF755DB /* AvertaDemoPE-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = F9B3DEBE8C8B4080B9CEA2C1 /* AvertaDemoPE-Regular.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -113,6 +115,7 @@
 		EBC80A6022DF4205007E5F3D /* config.debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = config.debug.xcconfig; sourceTree = "<group>"; };
 		EBC80A6122DF42DF007E5F3D /* config.release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = config.release.xcconfig; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F9B3DEBE8C8B4080B9CEA2C1 /* AvertaDemoPE-Regular.otf */ = {isa = PBXFileReference; name = "AvertaDemoPE-Regular.otf"; path = "AvertaDemoPE-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -272,6 +275,7 @@
 			isa = PBXGroup;
 			children = (
 				EB55620B22E0755000E19C26 /* glyphicons-halflings-regular.ttf */,
+				F9B3DEBE8C8B4080B9CEA2C1 /* AvertaDemoPE-Regular.otf */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -402,6 +406,7 @@
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				EB55620C22E0755000E19C26 /* glyphicons-halflings-regular.ttf in Resources */,
 				1A0B3AF323990C2400388BF7 /* config.xcconfig in Resources */,
+				D6D26AFC34A94C749AC6F565 /* AvertaDemoPE-Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -417,6 +422,7 @@
 				1A0B3AF12399095C00388BF7 /* config.xcconfig in Resources */,
 				1A0B3AEA2398185600388BF7 /* config.debug.xcconfig in Resources */,
 				1A0B3A9C2397DA2300388BF7 /* LaunchApp.storyboard in Resources */,
+				1B5C6A2BDAE74ED1BAF755DB /* AvertaDemoPE-Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
