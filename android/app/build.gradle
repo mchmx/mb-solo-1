@@ -33,7 +33,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.mindbody.mobile"
+        applicationId "com.mbsolo.mobile"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         missingDimensionStrategy "react-native-camera", "general"
