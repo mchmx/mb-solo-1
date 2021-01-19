@@ -33,35 +33,6 @@
           ]
         }
       }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:503342478383:android:13b2d664a08ec0396902da",
-        "android_client_info": {
-          "package_name": "com.mindbodysolo.mobile.developerapp"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "503342478383-6qarlt955nunsdtrg8b0v1jth7kiepo9.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyB6peirdWFqAOfe1KtS8vduRqxLlrATUP4"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "503342478383-6qarlt955nunsdtrg8b0v1jth7kiepo9.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
     }
   ],
   "configuration_version": "1"
