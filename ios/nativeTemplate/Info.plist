@@ -68,6 +68,10 @@
     <array>
       <string>glyphicons-halflings-regular.ttf</string>
       <string>Averta-Regular.otf</string>
+      <string>Averta-Bold.otf</string>
+      <string>Averta-BoldItalic.otf</string>
+      <string>Averta-Semibold.otf</string>
+      <string>Averta-SemiboldItalic.otf</string>
     </array>
     <key>UILaunchStoryboardName</key>
     <string>LaunchScreen</string>
