@@ -46,6 +46,14 @@
 		ED297163215061F000B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED297162215061F000B7C4FE /* JavaScriptCore.framework */; };
 		123CD29549594D00AB58C63E /* Averta-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = D7E441DBE6B644868CB11627 /* Averta-Regular.otf */; };
 		BE20941DE28241C1AF9EE634 /* Averta-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = D7E441DBE6B644868CB11627 /* Averta-Regular.otf */; };
+		BD2463EE4ADD416DB8DD498A /* Averta-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3F385F2BA18A493DB97ABB49 /* Averta-Bold.otf */; };
+		9B59C55BCE2A451791DECF8D /* Averta-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3F385F2BA18A493DB97ABB49 /* Averta-Bold.otf */; };
+		9EA3E99448E246418D56500A /* Averta-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3F610B8F51B0470AA61F176E /* Averta-BoldItalic.otf */; };
+		AF207F4C8A504E1B8F3312E8 /* Averta-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3F610B8F51B0470AA61F176E /* Averta-BoldItalic.otf */; };
+		3671DF89025148E7844B8474 /* Averta-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = DB5DFAC6737A4E96A228131F /* Averta-Semibold.otf */; };
+		B470E6A7B152432BB8DEF10D /* Averta-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = DB5DFAC6737A4E96A228131F /* Averta-Semibold.otf */; };
+		7AA5F48B0DD343BF972B2A4D /* Averta-SemiboldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B44799DB9EFA4BEAB7F3A484 /* Averta-SemiboldItalic.otf */; };
+		E1CB58FAD7B84C63BE959F8A /* Averta-SemiboldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B44799DB9EFA4BEAB7F3A484 /* Averta-SemiboldItalic.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -116,6 +124,10 @@
 		EBC80A6122DF42DF007E5F3D /* config.release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = config.release.xcconfig; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		D7E441DBE6B644868CB11627 /* Averta-Regular.otf */ = {isa = PBXFileReference; name = "Averta-Regular.otf"; path = "Averta-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3F385F2BA18A493DB97ABB49 /* Averta-Bold.otf */ = {isa = PBXFileReference; name = "Averta-Bold.otf"; path = "Averta-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3F610B8F51B0470AA61F176E /* Averta-BoldItalic.otf */ = {isa = PBXFileReference; name = "Averta-BoldItalic.otf"; path = "Averta-BoldItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DB5DFAC6737A4E96A228131F /* Averta-Semibold.otf */ = {isa = PBXFileReference; name = "Averta-Semibold.otf"; path = "Averta-Semibold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B44799DB9EFA4BEAB7F3A484 /* Averta-SemiboldItalic.otf */ = {isa = PBXFileReference; name = "Averta-SemiboldItalic.otf"; path = "Averta-SemiboldItalic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -276,6 +288,10 @@
 			children = (
 				EB55620B22E0755000E19C26 /* glyphicons-halflings-regular.ttf */,
 				D7E441DBE6B644868CB11627 /* Averta-Regular.otf */,
+				3F385F2BA18A493DB97ABB49 /* Averta-Bold.otf */,
+				3F610B8F51B0470AA61F176E /* Averta-BoldItalic.otf */,
+				DB5DFAC6737A4E96A228131F /* Averta-Semibold.otf */,
+				B44799DB9EFA4BEAB7F3A484 /* Averta-SemiboldItalic.otf */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -407,6 +423,10 @@
 				EB55620C22E0755000E19C26 /* glyphicons-halflings-regular.ttf in Resources */,
 				1A0B3AF323990C2400388BF7 /* config.xcconfig in Resources */,
 				123CD29549594D00AB58C63E /* Averta-Regular.otf in Resources */,
+				BD2463EE4ADD416DB8DD498A /* Averta-Bold.otf in Resources */,
+				9EA3E99448E246418D56500A /* Averta-BoldItalic.otf in Resources */,
+				3671DF89025148E7844B8474 /* Averta-Semibold.otf in Resources */,
+				7AA5F48B0DD343BF972B2A4D /* Averta-SemiboldItalic.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -423,6 +443,10 @@
 				1A0B3AEA2398185600388BF7 /* config.debug.xcconfig in Resources */,
 				1A0B3A9C2397DA2300388BF7 /* LaunchApp.storyboard in Resources */,
 				BE20941DE28241C1AF9EE634 /* Averta-Regular.otf in Resources */,
+				9B59C55BCE2A451791DECF8D /* Averta-Bold.otf in Resources */,
+				AF207F4C8A504E1B8F3312E8 /* Averta-BoldItalic.otf in Resources */,
+				B470E6A7B152432BB8DEF10D /* Averta-Semibold.otf in Resources */,
+				E1CB58FAD7B84C63BE959F8A /* Averta-SemiboldItalic.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
