@@ -94,10 +94,10 @@
         <key>CFBundleTypeRole</key>
         <string>Editor</string>
         <key>CFBundleURLName</key>
-        <string>testlink</string>
+        <string>mbsolo</string>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>testlink</string>
+          <string>mbsolo</string>
         </array>
       </dict>
     </array>
