@@ -10,7 +10,7 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>en</string>
     <key>CFBundleDisplayName</key>
-    <string>$(BUNDLE_DISPLAY_NAME)</string>
+    <string>mb-solo</string>
     <key>CFBundleExecutable</key>
     <string>$(EXECUTABLE_NAME)</string>
     <key>CFBundleIdentifier</key>
@@ -22,7 +22,7 @@
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
-    <string>1.0.0</string>
+    <string>0.1.0</string>
     <key>CFBundleSignature</key>
     <string>????</string>
     <key>CFBundleVersion</key>
@@ -61,7 +61,7 @@
     <key>NSPhotoLibraryUsageDescription</key>
     <string>To use that feature the app needs access to your photo library.</string>
     <key>Runtime url</key>
-    <string>$(RUNTIME_URL)</string>
+    <string>https://mbsolo-accp.mendixcloud.com</string>
     <key>TargetName</key>
     <string>${TARGET_NAME}</string>
     <key>UIAppFonts</key>
