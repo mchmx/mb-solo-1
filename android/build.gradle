@@ -45,5 +45,9 @@ allprojects {
         maven {
             url "$rootDir/../node_modules/detox/Detox-android"
         }
+        maven {
+            url "https://software.mobile.pendo.io/artifactory/android-release"
+        }
+        mavenCentral()
     }
 }
